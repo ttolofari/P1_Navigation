@@ -46,4 +46,9 @@ Place the downloaded file in the P1_Navigation/ folder, and unzip (or decompress
 
 Follow the instructions provided in the `Navigation.ipynb` file to start the training of the agent. 
 
+## Dependencies
+
+To be able to run this code, Python 3 and the dependencies are listed in the `requirements.txt` file. To intall them, make use of 
+```pip install requirements.txt```
+
 
