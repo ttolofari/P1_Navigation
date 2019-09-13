@@ -48,7 +48,8 @@ Follow the instructions provided in the `Navigation.ipynb` file to start the tra
 
 ## Dependencies
 
-To be able to run this code, Python 3 and the dependencies are listed in the `requirements.txt` file. To intall them, make use of 
+To be able to run this code, Python 3 and the dependencies are listed in the `requirements.txt` file. To install them, make use of 
+
 ```pip install requirements.txt```
 
 
